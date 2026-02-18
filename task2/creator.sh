@@ -6,4 +6,3 @@ if [[ "$#" -le 0 ]]; then
 else
 	echo "Привет $1"
 	exit 0
-fi
